@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="fabric-example-mod-1.18.fabric-example-mod-1.18.main~1" target="17" />
+      <module name="fabric-example-mod-1.18.fabric-example-mod-1.18.test~1" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
